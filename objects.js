@@ -1,5 +1,3 @@
-var artistName;
-var songTitle;
 var playlist = {artistName, songTitle};
 
 
